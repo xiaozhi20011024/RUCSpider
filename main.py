@@ -21,6 +21,7 @@ def main():
         spider.passward = getpass('Please enter your password here:>')
 
     lecture_type = ["素质拓展认证","形势与政策","形势与政策讲座"]
+    # 好多 shit
     
     if lecture_type == DEFAULT_LECTURE:
         print("You are using the default lecture type. You may cahnge your lecture type by setting in code line 23. You can comment line 26 to hide this message.")
